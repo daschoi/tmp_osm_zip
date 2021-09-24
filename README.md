@@ -1,0 +1,1 @@
+# tmp_osm_zip
